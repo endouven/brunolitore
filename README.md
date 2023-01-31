@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou Bruno
-- 👀 Gosto de tecnologias web e Linux
+- 👀 Gosto de tecnologias web, open source e mobile
 - 🌱 Atualmente estudo na Trybe
 - 📫 Você pode me encontrar no [LinkedIn][1]
 
